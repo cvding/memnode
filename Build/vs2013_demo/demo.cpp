@@ -1,9 +1,3 @@
-# memnode
-> 纯C实现固定长度申请单个节点内存
-- VS2013下编译
-- 库生成在Export\memnode中
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include "memnode.h"
@@ -37,4 +31,3 @@ int main()
 
 	return 0;
 }
-```
